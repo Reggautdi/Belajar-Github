@@ -1,4 +1,7 @@
 # Belajar-Github
 Hallo nama saya regga
 Saya kuliah di UTDI
-hii
+Python
+java
+CSS
+
